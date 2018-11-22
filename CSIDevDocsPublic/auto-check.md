@@ -29,7 +29,7 @@ ms.reviewer: martinof
 
 ## Name
 
-`dotnet` - General driver for running the command-line commands.
+`dotnet` - General driver for running the command-line commands..
 
 ## Synopsis
 # [.NET Core 2.x(#tab/netcore2x)
