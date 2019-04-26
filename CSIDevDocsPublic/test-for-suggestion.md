@@ -7,3 +7,5 @@ author: meganbradley
 Hi, I'm the author!
 
 ...and a darn good one at that!
+
+I'm adding a commit (not as a suggestion)...
