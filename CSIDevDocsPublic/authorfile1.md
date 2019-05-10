@@ -11,7 +11,7 @@ ms.custom: internal-contributor-guide
 ---
 # Acrolinx report
 
-The Acrolinx report has been restored to the SkyEye site thanks to work by the CGA team and Acrolinx. To access the report, go to [https://aka.ms/skyeye](https://aka.ms/skyeye) and click the Acrolinx Report tile. 
+The Acrolinx report has been restored to the SkyEye site thanks to work by the CGA team and Acrolinx. To access the report, go to [https://aka.ms/skyeye](https://aka.ms/skyeye) and click the Acrolinx Report tile.
 
 ## Things you need to know
 - The columns/fields now should match the data in the actual scorecards - before this, there were some confusing legacy columns__.
