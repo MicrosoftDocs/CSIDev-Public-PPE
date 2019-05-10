@@ -1,47 +1,35 @@
 ---
-# required metadata
-
-title: "VS Code Authoring Extension"
-#description:
-#keywords:
+title: Acrolinx report
+description: This article discusses issues and fixes planned for the Acrolinx report. 
 author: adunndevster
-ms.author: adunndevster
-manager: arthurya
-ms.date:  10/29/2016
-ms.topic: article
-#ms.prod:
-#ms.service:
-#ms.technology:
-ms.assetid: c44deb70-bd5b-4efa-bcee-4e4b4c8f418c
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
-ms.reviewer: martinof
-#ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+ms.author: adundevster
+manager: erifkin
+ms.date: 01/10/2019
+ms.prod: non-product-specific
+ms.topic: contributor-guide
+ms.custom: internal-contributor-guide
 ---
+# Acrolinx report
 
+The Acrolinx report has been restored to the SkyEye site thanks to work by the CGA team and Acrolinx. To access the report, go to [https://aka.ms/skyeye](https://aka.ms/skyeye) and click the Acrolinx Report tile. 
 
-# VS Code Authoring Extensionee Test
+## Things you need to know
+- The columns/fields now should match the data in the actual scorecards - before this, there were some confusing legacy columns_.
+- All content that has been run through the GitHub integration should be in the report.
+- VSCode does not write results to the report. So the report contains no info for repos that are public only and where VSCode is the only Acrolinx tooling.
+- There is currently no baseline for an entire repo, so there will only be results for content that has been updated intentionally by someone through a pull request. We are working with Acrolinx so that by end of February 2019 the GitHub integration will automatically baseline the content for an entire repo. In the meantime, do NOT artificially provoke massive runs of Acrolinx just to get data into the report.
+ 
+## Improvement plan for the Acrolinx report
 
-VS Code Markdown Authoring Extension for OPS is a poc to provide authoring help to writers working in OPS and authoring for docs.microsoft.com. It includes several functions, including applying the default docs template to new Markdown files and generating a GUID, applying common formattidng to strings, inserting links and images, and previewing content using your site's CSS.
+Here's the plan for making complete and correct Acrolinx data available to content teams.
 
-## Installation steps
+| Action | Status |
+|---|---|
+| Correct the export of data from Acrolinx to MSFT. | Complete November 13, 2018 |
+| Updated ingestion of data and mapping to MSFT article metadata, display in Power BI Acrolinx report, repost the report. | Complete January 10, 2019 |
+| Acrolinx enables baseline scanning for new and existing repos. This new feature will let us make complete data available in the updated Acrolinx report. | Estimated delivery - March 2019. |
 
-1. Copy the installation folder from Sogup.
-2. Save ops-platform-extension-poc-0.0.1.vsix to your machine.
-3. Open VS Code and click the square icon on the left panel to open the Extensions menu.
-4. Click the three dots for "More" and select "Install from VSIX..."
-5. Navigate to the extension and select it.
-6. VS Code will install the extension and prompt you to restart.
+## Questions
 
-## Prerequisites and assumptions
+If you have questions, contact tysonn.
 
-To effectively use the OPS Authoring extension, you must:
-- Clone your entire repo to your local machine and keep it in sync. Functions such as link and image insertion are not reliable if the repo is out of sync.
-- For accurate content preview, you need to update your VS Code settings.json file, as described under **Preview Content** below.
-Examples below ([full list](http://docs.microsoft.com/en-us/locale.aspx))

@@ -1,8 +1,8 @@
 ---
 title: Acrolinx report
 description: This article discusses issues and fixes planned for the Acrolinx report. 
-author: lamebrain
-ms.author: lamebrain
+author: bharney-msft
+ms.author: bharney-sft
 manager: erifkin
 ms.date: 01/10/2019
 ms.prod: non-product-specific
