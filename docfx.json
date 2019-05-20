@@ -37,9 +37,15 @@
     "globalMetadata": {
       "breadcrumb_path": "/CSIDev-Public-PPE/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "author": "bharney-msft"
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "author": {
+        "bharney/**.md": "bharney-msft",
+        "adunndevster/**.md": "adunndevster"
+      }
+    },
     "template": [],
     "dest": "CSIDev-Public-PPE",
     "markdownEngineName": "markdig"
