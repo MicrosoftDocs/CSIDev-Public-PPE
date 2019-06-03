@@ -7,6 +7,7 @@ manager: erifkin
 ms.date: 01/10/2019
 ms.prod: non-product-specific
 ms.topic: contributor-guide
+ms.technology: configmgr-other #app client compliance hybrid osd protect sum
 ms.custom: internal-contributor-guide
 ---
 # Acrolinx report
@@ -33,3 +34,5 @@ Here's the plan for making complete and correct Acrolinx data available to conte
 
 If you have questions, contact tysonn.
 
+test 
+ 
