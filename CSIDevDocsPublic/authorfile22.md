@@ -14,7 +14,7 @@ ms.custom: internal-contributor-guide
 The Acrolinx report has been restored to the SkyEye site thanks to work by the CGA team and Acrolinx. To access the report, go to [https://aka.ms/skyeye](https://aka.ms/skyeye) and click the Acrolinx Report tile.
 
 ## Things you need to know
-- The columns/fields now should match the data in the actual scorecards - before this, there were some confusing legacy columns_.
+- The columns/fields now should match the data in the actual scorecards - before this, there were some confusing legacy columns__.
 - All content that has been run through the GitHub integration should be in the report.
 - VSCode does not write results to the report. So the report contains no info for repos that are public only and where VSCode is the only Acrolinx tooling.
 - There is currently no baseline for an entire repo, so there will only be results for content that has been updated intentionally by someone through a pull request. We are working with Acrolinx so that by end of February 2019 the GitHub integration will automatically baseline the content for an entire repo. In the meantime, do NOT artificially provoke massive runs of Acrolinx just to get data into the report.
