@@ -12,6 +12,7 @@ ms.date: 07/11/2018
 ms.technology: security
 manager: mtillman
 ms.reviewer: michmcla
+author: bharney
 
 ---
 # Azure Multi-Factor Authentication user data collection
