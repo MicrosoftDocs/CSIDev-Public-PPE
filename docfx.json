@@ -42,7 +42,8 @@
     "fileMetadata": {
       "author": {
         "bharney/**.md": "bharney-msft",
-        "adunndevster/**.md": "adunndevster"
+        "adunndevster/**.md": "adunndevster",
+        "articles/topic1/subtopic/*.md": "lamebrain"
       }
     },
     "template": [],
