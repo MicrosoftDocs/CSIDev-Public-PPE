@@ -1,7 +1,6 @@
 ---
 title: Acrolinx report
 description: This article discusses issues and fixes planned for the Acrolinx report. 
-author: adunndevster
 ms.author: adundevster
 manager: erifkin
 ms.date: 01/10/2019
