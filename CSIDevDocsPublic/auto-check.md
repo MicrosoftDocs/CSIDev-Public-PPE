@@ -36,3 +36,5 @@ ms.reviewer: martinof
 `dotnet [command] [arguments] [--additional-deps] [--additionalprobingpath] [-d|--diagnostics] [--fx-version] [-h|--help] [--info] [--roll-forward-on-no-candidate-fx] [-v|--verbose] [--version]`
 
 ---
+
+.
