@@ -1,4 +1,5 @@
 ---
+author:meganbradley
 ms.author: mbradley
 ---
-# Test for case where no author is set in file or fileMetadata, but author is set in globalMetadata
+# meganbradley is the author of this file
