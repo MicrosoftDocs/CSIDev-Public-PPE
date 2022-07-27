@@ -5,7 +5,7 @@ author: tysonn
 ms.author: tysonn
 manager: erifkin
 ms.date: 01/10/2019
-ms.prod: non-product-specific
+ms.prod: Mya
 ms.topic: contributor-guide
 ms.custom: internal-contributor-guide
 ---
