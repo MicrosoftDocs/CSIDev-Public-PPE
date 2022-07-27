@@ -5,7 +5,7 @@ title: "VS Code Authoring Extension"
 #description:
 #keywords:
 author: adunndevster
-ms.author: adunndevster
+ms.author: hanqingzheng
 manager: arthurya
 ms.date:  10/29/2016
 ms.topic: article
