@@ -37,7 +37,7 @@ VS Code Markdown Authoring Extension for OPS is a poc to provide authoring help 
 3. Open VS Code and click the square icon on the left panel to open the Extensions menu.
 4. Click the three dots for "More" and select "Install from VSIX..."
 5. Navigate to the extension and select it.
-6. VS Code will install the extension and prompt you to restart.
+6. VS Code will install the extension and prompt you to restart..
 
 ## Prerequisites and assumptions
 
