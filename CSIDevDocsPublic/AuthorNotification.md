@@ -4,7 +4,7 @@
 title: "VS Code Authoring Extension"
 #description:
 #keywords:
-author: PRMerger16
+author: jamesyao-msft
 ms.author: v-caxian
 manager: arthurya
 ms.date:  10/29/2016
@@ -19,7 +19,7 @@ ms.assetid: c44deb70-bd5b-4efa-bcee-4e4b4c8f418c
 #ROBOTS:
 #audience:
 #ms.devlang:
-ms.reviewer: martinof
+ms.reviewer: shujingzhang
 #ms.suite: ems
 #ms.tgt_pltfrm:
 #ms.custom:
