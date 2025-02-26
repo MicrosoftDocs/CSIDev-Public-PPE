@@ -3,8 +3,8 @@ title: Operational excellence recommendations
 description: Operational excellence recommendations
 ms.topic: article
 ms.custom: ignite-2022
-author: lorihollasch
-ms.author: loriwhip
+author: jasonwhowell
+ms.author: jasonh
 ms.date: 02/02/2022
 ---
 

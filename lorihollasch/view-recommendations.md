@@ -2,8 +2,8 @@
 title: View Azure Advisor recommendations that matter to you
 description: View and filter Azure Advisor recommendations to reduce noise.
 ms.topic: article
-author: lorihollasch
-ms.author: loriwhip
+author: jasonwhowell
+ms.author: jasonh
 ms.date: 04/03/2019
 ---
 
@@ -21,6 +21,6 @@ To make changes in the Azure portal:
 
 1. Select **Configuration** from the menu.
 
-   ![Advisor configuration menu](./media/view-recommendations/configuration.png)
+   ![Advisor configuration menu](./media/digest-0.png)
 
 1. Check the box in the **Include** column for any subscriptions or resource groups to receive Advisor recommendations. If the box is disabled, you may not have permission to make a configuration change on that subscription or resource group. Learn more about [permissions in Azure Advisor](permissions.md).

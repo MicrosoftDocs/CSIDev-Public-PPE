@@ -2,8 +2,8 @@
 title: Release notes for Azure Advisor
 description: A description of what's new and changed in Azure Advisor
 ms.topic: reference
-author: lorihollasch
-ms.author: loriwhip
+author: jasonwhowell
+ms.author: jasonh
 ms.date: 01/03/2022
 ---
 # What's new in Azure Advisor?

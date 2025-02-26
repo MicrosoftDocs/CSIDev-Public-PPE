@@ -2,8 +2,8 @@
 title: Optimize Azure workloads by using Advisor score
 description: Use Azure Advisor score to get the most out of Azure.
 ms.topic: article
-author: lorihollasch
-ms.author: loriwhip
+author: jasonwhowell
+ms.author: jasonh
 ms.date: 09/09/2020
 
 ---

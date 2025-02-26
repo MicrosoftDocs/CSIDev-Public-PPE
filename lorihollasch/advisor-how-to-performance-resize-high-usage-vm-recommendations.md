@@ -2,8 +2,8 @@
 title: Improve the performance of highly used VMs using Azure Advisor
 description: Use Azure Advisor to improve the performance of your Azure virtual machines with consistent high utilization.
 ms.topic: article
-author: lorihollasch
-ms.author: loriwhip
+author: jasonwhowell
+ms.author: jasonh
 ms.date: 10/27/2022
 ---
 

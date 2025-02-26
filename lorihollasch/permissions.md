@@ -2,8 +2,8 @@
 title: Permissions in Azure Advisor 
 description: Advisor permissions and how they may block your ability to configure subscriptions or postpone or dismiss recommendations.
 ms.topic: article
-author: lorihollasch
-ms.author: loriwhip
+author: jasonwhowell
+ms.author: jasonh
 ms.date: 04/03/2019
 ---
 

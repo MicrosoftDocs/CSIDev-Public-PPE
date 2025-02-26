@@ -1,15 +1,13 @@
 ---
-title: Test
-description: Learn how to test.
+title: Cats are awesome
+description: Learn about cats.
 ms.topic: quickstart
 ms.custom: subject-armqs, devx-track-azurepowershell, mode-arm
-author: lorihollasch
-ms.author: loriwhip
+author: jasonwhowell
+ms.author: jasonh
 ms.date: 06/29/2020
 ---
 
-# Test
+# Cats are awesome
 
-This is a test.
-
-Change this file.
+I like cats.

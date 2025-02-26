@@ -3,8 +3,8 @@ title: Introduction to Azure Advisor
 description: Use Azure Advisor to optimize your Azure deployments.
 ms.topic: overview
 ms.date: 04/07/2022
-author: lorihollasch
-ms.author: loriwhip
+author: jasonwhowell
+ms.author: jasonh
 
 ---
 

@@ -3,8 +3,8 @@ title: Cost recommendations
 description: Full list of available cost recommendations in Advisor.
 ms.topic: article
 ms.custom: ignite-2022
-author: lorihollasch
-ms.author: loriwhip
+author: jasonwhowell
+ms.author: jasonh
 ms.date: 02/04/2022
 ---
 
