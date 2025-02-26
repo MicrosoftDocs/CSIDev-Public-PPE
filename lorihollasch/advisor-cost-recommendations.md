@@ -3,6 +3,7 @@ title: Reduce service costs using Azure Advisor
 description: Use Azure Advisor to optimize the cost of your Azure deployments.
 ms.topic: article
 ms.date: 10/29/2021
+author: lorihollasch
 ms.author: loriwhip
 
 ---

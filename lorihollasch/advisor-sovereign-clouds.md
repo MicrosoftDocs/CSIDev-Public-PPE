@@ -3,6 +3,7 @@ title: Sovereign cloud feature variations
 description: List of feature variations and usage limitations for Advisor in sovereign clouds.
 ms.topic: article
 ms.custom: ignite-2022
+author: lorihollasch
 ms.author: loriwhip
 ms.date: 09/19/2022
 ---

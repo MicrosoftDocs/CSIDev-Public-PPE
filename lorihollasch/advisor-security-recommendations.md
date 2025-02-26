@@ -2,6 +2,7 @@
 title: Make resources more secure with Azure Advisor
 description: Use Azure Advisor to help improve the security of your Azure deployments.
 ms.topic: article
+author: lorihollasch
 ms.author: loriwhip
 ms.date: 01/29/2019
 ---

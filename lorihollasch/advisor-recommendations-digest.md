@@ -4,6 +4,7 @@ title: Recommendation digest for Azure Advisor
 description: Get periodic summary for your active recommendations
 ms.topic: article
 ms.date: 03/16/2020
+author: lorihollasch
 ms.author: loriwhip
 
 ---

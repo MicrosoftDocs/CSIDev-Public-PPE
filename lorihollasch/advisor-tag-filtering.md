@@ -3,6 +3,7 @@ title: Review optimization opportunities by workload, environment or team
 description: Review optimization opportunities by workload, environment or team
 ms.topic: article
 ms.custom: tags
+author: lorihollasch
 ms.author: loriwhip
 ms.date: 05/25/2022
 ---

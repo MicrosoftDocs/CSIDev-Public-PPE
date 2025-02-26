@@ -3,6 +3,7 @@ title: Improve operational excellency with Advisor
 description: Use Azure Advisor to optimize and mature your operational excellence for your Azure subscriptions.
 ms.topic: article
 ms.date: 10/24/2019
+author: lorihollasch
 ms.author: loriwhip
 
 ---

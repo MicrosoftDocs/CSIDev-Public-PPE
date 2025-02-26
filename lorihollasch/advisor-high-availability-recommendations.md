@@ -3,6 +3,7 @@ title: Improve reliability of your application with Advisor
 description: Use Azure Advisor to ensure and improve reliability in your business-critical Azure deployments.
 ms.topic: article
 ms.date: 10/26/2021
+author: lorihollasch
 ms.author: loriwhip
 
 ---
