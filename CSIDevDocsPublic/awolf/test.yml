@@ -1,0 +1,18 @@
+### YamlMime:FAQ
+metadata:
+  title: Azure Developer CLI FAQ
+  description: Get answers to commonly asked questions about Azure Developer CLI.
+  author: alexwolftest
+  ms.author: alexwolftest
+  ms.date: 9/14/2024
+  ms.topic: conceptual
+  ms.custom: devx-track-azdevcli, build-2023
+  ms.service: azure-dev-cli
+title: Azure Developer CLI FAQ
+summary: This article answers commonly asked questions about Azure Developer CLI.
+sections:
+  - name: General
+    questions:
+      - question: How do I uninstall Azure Developer CLI?
+        answer: |
+          There are different options for uninstalling `azd` depending on how you originally installed it. Visit the [installation page](/azure/developer/azure-developer-cli/install-azd) for details.
