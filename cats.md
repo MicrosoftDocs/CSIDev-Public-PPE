@@ -1,10 +1,10 @@
 ---
 title: I like cats
 description: test description
-author: lorihollasch
+author: jasonwhowell
 ms.date: 02/21/2025
 ms.topic: article
-ms.author: loriwhip
+ms.author: jasonh
 ---
 # I like cats
 
