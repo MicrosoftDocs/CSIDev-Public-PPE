@@ -9,6 +9,7 @@
         "exclude": [
           "**/obj/**",
           "**/includes/**",
+          "**/tests/**",
           "_themes/**",
           "_themes.pdf/**",
           "README.md",
